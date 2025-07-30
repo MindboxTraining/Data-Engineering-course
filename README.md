@@ -1,62 +1,113 @@
 # Data-Engineering-course
 The Mindbox Trainings Data Engineering Bootcamp is a 5-week hands-on program where you learn Python, SQL, Airflow, and build real ETL pipelines. It's designed to get you ready for data engineering interviews — fast.
-# 🧠 Data Engineering Bootcamp – Project Repository by Mindbox Trainings
+# 🛠️ Data Engineering Bootcamp – Mindbox Trainings
 
-Welcome to the official repository of our **Data Engineering Bootcamp**, a hands-on, project-driven learning experience for anyone aspiring to become a **Data Engineer**.
-
-This repo contains real-world sample projects, pipelines, and scripts taught in the course using:
-- **Python for Data Engineering**
-- **SQL for Data Wrangling**
-- **Apache Airflow for Orchestration**
-- **BigQuery / Snowflake for Warehousing**
-- **Cloud Tools (AWS/GCP)**
-- **ETL/ELT Pipelines**
+🚀 Learn data engineering through real-world projects using Python, SQL, GCP, Airflow, BigQuery, and more. Designed to take you from beginner to job-ready in just **5 weeks**.
 
 ---
 
-## 🚀 What’s Inside?
+## 🔥 Watch the Full Course Demo
 
-This repository includes:
-- Python scripts for building scalable data pipelines
-- Airflow DAGs for task orchestration
-- Sample SQL queries for data modeling
-- Cloud-native deployment examples
-- Real-world assignments used in the bootcamp
+[🎥 Watch the Demo on YouTube](https://www.youtube.com/watch?v=8R28SgWby5k&t=3952s)
 
 ---
 
-## 🔗 Related Blog & Course Pages
+## 📚 About the Bootcamp
 
-📘 [Read: How to Become a Data Engineer – Full Roadmap](https://mindboxtrainings.com/training/how-to-become-data-engineer-2025-roadmap/)  
-📘 [Read: Top 10 Skills Every Data Engineer Must Have](https://mindboxtrainings.com/blogs/data-engineering-skills/)  
-📘 [Read: Data Engineer vs Data Scientist – What's the Real Difference?](https://mindboxtrainings.com/training/devops-vs-data-science/)
+This is a **project-based Data Engineering Bootcamp** created by industry experts at **Mindbox Trainings**. Over 5 weeks, you'll build an end-to-end real-time data pipeline for an e-commerce platform.
 
----
+### 👨‍💻 What You’ll Learn
 
-## 🎓 Learn from Us – Join the Full Bootcamp
-
-> 🧠 **Want to learn with our full 5-week project-based Data Engineering Bootcamp? [Click here](https://mindboxtrainings.com/data-engineering-online-training-program/)**
-
----
-
-## 📺 Watch the Course Demos on YouTube
-
-🎥 [Data Engineering Bootcamp Playlist]([https://youtube.com/playlist?list=XXXXX](https://www.youtube.com/watch?v=8R28SgWby5k&t=3952s))  
-
-> 🔔 Subscribe for more real-time demos, project walkthroughs, and interview prep!
+- Python for Data Engineering
+- Advanced SQL Queries
+- GCP (BigQuery, GCS, Cloud Functions, Dataflow)
+- Apache Airflow (Orchestration)
+- Data Modeling & Warehousing
+- Streaming with Pub/Sub + Dataflow
+- Data Quality & Monitoring
+- Git & GitHub for Portfolio Projects
 
 ---
 
-## 🧰 Tech Stack & Tools Covered
+## 📅 Curriculum Overview
 
-- Python 3.9+
-- Apache Airflow
-- SQL (PostgreSQL / BigQuery)
-- Docker
-- GCP / AWS / Azure
-- Snowflake / Redshift
-- Git & GitHub
-- DBT
-- Pandas / NumPy
--Many more:)
+### **Week 1 – Python & SQL Foundations**
+
+- Python Lists, Dicts, Functions
+- File Formats (CSV, JSON, Parquet)
+- SQL: SELECT, JOIN, Window Functions
+- BigQuery Basics + Labs
+- Pandas for cleaning & aggregation
+
+### **Week 2 – GCP, BigQuery, Data Modeling**
+
+- Uploading to GCS
+- Loading to BigQuery
+- Partitioning, Clustering
+- Star & Snowflake Schema
+- Normalization
+
+### **Week 3 – Batch & Streaming Pipelines**
+
+- Cloud Dataflow & Apache Beam
+- ETL vs ELT
+- GCP Functions for automation
+- Streaming clickstream data using Pub/Sub
+
+### **Week 4 – Orchestration, Monitoring & Quality**
+
+- Apache Airflow: DAGs, Sensors, Triggers
+- Monitoring: Logs, Failures, IAM
+- Data Validation: Great Expectations
+- Assignment: Automate validation DAG
+
+### **Week 5 – Capstone Project & Presentation**
+
+- Build complete e-commerce pipeline (batch + stream)
+- Add custom features: reviews, delivery tracking
+- Monitor with logging and alerts
+- Final GitHub publishing + Interview tips
+
 ---
+
+## 💡 Capstone Project Examples
+
+- E-Commerce Sales Reporting Pipeline
+- Real-time Sensor Monitoring (IoT use case)
+- News Sentiment Analyzer using APIs
+
+---
+
+## 🧠 Want to learn with our full 5-week project-based Data Engineering Bootcamp?
+
+👉 [Enroll here](https://mindboxtrainings.com/data-engineering-online-training-program/)
+
+---
+
+## 🔖 Tags
+
+`#data-engineering` `#sql` `#python` `#airflow` `#bigquery` `#gcp` `#bootcamp` `#mindboxtrainings` `#data-pipeline` `#streaming-data`
+
+---
+
+## 📺 YouTube Playlist
+
+👉 [Data Engineering Bootcamp - Full Video Series](https://www.youtube.com/playlist?list=PLO9ci1OliMiNmihHol4eblvh4g7SdI0FO)
+
+---
+
+## 📩 Join our WhatsApp Learning Channel
+
+👉 [Click to Join](https://whatsapp.com/channel/0029Vb8WYwHLtOj3tDIYMq43)
+
+---
+
+## 📝 License
+
+This content is created and owned by Mindbox Trainings. Redistribution without credit is not allowed.
+
+---
+
+## 📁 .gitignore
+
+
